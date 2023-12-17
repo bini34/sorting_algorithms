@@ -1,8 +1,4 @@
-write a C program that sorts an array of integers using the Merge sort algorithm. The program should include a README.md file to provide information about the project, how to compile and run the code, and any additional details.
 
-Here's a sample README.md file based on the provided information:
-
-```markdown
 # Sorting Algorithms Project
 
 ## Project Overview
